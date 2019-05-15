@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PdfReader</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>
